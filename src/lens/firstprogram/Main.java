@@ -1,0 +1,9 @@
+package lens.firstprogram;
+//test komenarza
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, Intellij!");
+
+
+    }
+}
